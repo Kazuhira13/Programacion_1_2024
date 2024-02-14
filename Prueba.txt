@@ -1,1 +1,26 @@
 Hola mundo 
+
+Resumen del Video 
+Se nos explica para que es usado el git que es uns sistema de control de versiones distribuido que quiere decir subimos nuestro programa y podes realizar cambios o que otros les hagan cambios tambien, facilita la colaboración entre equipos, y ayuda a mantener un historial completo de las modificaciones realizadas en los archivos del proyecto. Tambien se va explicando paso a paso el como descargar el git y como subir los archivos por medio del cdm donde donde se buscara la ubicacion del proyecto y se subira usando el uso de los comando basicos.
+
+
+1. ¿Qué es GIT?
+R// Es un sistema de control de versiones permite a los desarrolladores colaborar en proyectos de software de manera eficiente
+y hacer ajustes al codigo del programa
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+R// git init: Puede utilizarse para convertir un proyecto existente y sin versión en un repositorio
+    git add : añade contenido del directorio de trabajo al área de ensayo
+    git status: muestra el estado actual de los archivos en en el repositorio
+    git Commit: registra los cambios realizados en los archivos del repositorio en un punto específico
+    git push: sube el contenido de un repositorio local a un repositorio central.
+    git pull: descarga los cambios desde el repositorio local y luego integra esos cambios en la rama actual
+
+3. ¿Cuál es la diferencia entre Git y Github?
+R// La diferencia entre git y github es que github es una plataforma en la nube donde alojamos nuestros proyectos y permite hacer colaboraciones en otros proyectos de software mientras git es la herramienta la cual ocupamos para subir nuestros proyectos.
+
+4. Enumere los comandos para subir cambios a un repositorio.
+R// Git add, git commit -m, git push.
+
+5. ¿Qué es una branch?
+R// Se podria decir que es una bifurcacion del estado del codigo para crear un nuevo camino para la evolucion del mismo
