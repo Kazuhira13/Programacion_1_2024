@@ -1,0 +1,29 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\refint\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea de Practica POO\Tarea de Practica POO\obj\Debug\net8.0\ref\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\bin\Debug\net8.0\Tarea de Practica POO.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.sourcelink.json
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\refint\Tarea de Practica POO.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\Tarea de Practica POO.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Programacion_1_2024\Tarea de Practica POO\obj\Debug\net8.0\ref\Tarea de Practica POO.dll
