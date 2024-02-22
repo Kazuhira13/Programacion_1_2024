@@ -1,0 +1,14 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\bin\Debug\net8.0\Creación de clases Tarea.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\bin\Debug\net8.0\Creación de clases Tarea.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\bin\Debug\net8.0\Creación de clases Tarea.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\bin\Debug\net8.0\Creación de clases Tarea.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\bin\Debug\net8.0\Creación de clases Tarea.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\refint\Creación de clases Tarea.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\Creación de clases Tarea.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Creación de clases Tarea\Creación de clases Tarea\obj\Debug\net8.0\ref\Creación de clases Tarea.dll
