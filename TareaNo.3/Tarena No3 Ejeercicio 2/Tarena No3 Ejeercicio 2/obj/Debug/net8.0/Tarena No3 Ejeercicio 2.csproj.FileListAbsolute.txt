@@ -1,0 +1,28 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\refint\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\ref\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\bin\Debug\net8.0\Tarena No3 Ejeercicio 2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\refint\Tarena No3 Ejeercicio 2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\Tarena No3 Ejeercicio 2.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarena No3 Ejeercicio 2\Tarena No3 Ejeercicio 2\obj\Debug\net8.0\ref\Tarena No3 Ejeercicio 2.dll

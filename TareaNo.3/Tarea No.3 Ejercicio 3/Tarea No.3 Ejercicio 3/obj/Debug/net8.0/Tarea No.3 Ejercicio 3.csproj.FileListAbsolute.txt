@@ -1,0 +1,28 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\refint\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\ref\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\bin\Debug\net8.0\Tarea No.3 Ejercicio 3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\refint\Tarea No.3 Ejercicio 3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\Tarea No.3 Ejercicio 3.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Tarea No.3\Tarea No.3 Ejercicio 3\Tarea No.3 Ejercicio 3\obj\Debug\net8.0\ref\Tarea No.3 Ejercicio 3.dll
