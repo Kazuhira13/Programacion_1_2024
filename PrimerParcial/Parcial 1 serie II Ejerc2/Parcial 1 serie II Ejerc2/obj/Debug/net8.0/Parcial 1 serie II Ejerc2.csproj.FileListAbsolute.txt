@@ -1,0 +1,28 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\refint\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\ref\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\bin\Debug\net8.0\Parcial 1 serie II Ejerc2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\refint\Parcial 1 serie II Ejerc2.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\Parcial 1 serie II Ejerc2.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2\obj\Debug\net8.0\ref\Parcial 1 serie II Ejerc2.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial 1 serie II Ejerc2", "Parcial 1 serie II Ejerc2\Parcial 1 serie II Ejerc2.csproj", "{BBD65A40-1F2E-491A-A2DF-C5E9EF80B556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD65A40-1F2E-491A-A2DF-C5E9EF80B556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD65A40-1F2E-491A-A2DF-C5E9EF80B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD65A40-1F2E-491A-A2DF-C5E9EF80B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD65A40-1F2E-491A-A2DF-C5E9EF80B556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D654D6A-C975-49A4-A2C4-1A5E8846107D}
+	EndGlobalSection
+EndGlobal

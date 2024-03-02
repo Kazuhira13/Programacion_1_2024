@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Parcial 1 Timothy Gerald Palma Perez variante A\\Parcial 1 variante A Serie II ejeR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B225C4D-C567-49FA-8E1C-6F4A88B78AB2}|Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\parcial 1 timothy gerald palma perez variante a\\parcial 1 variante a serie ii ejer1\\parcial 1 variante a serie ii ejer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B225C4D-C567-49FA-8E1C-6F4A88B78AB2}|Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1.csproj|solutionrelative:parcial 1 variante a serie ii ejer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B225C4D-C567-49FA-8E1C-6F4A88B78AB2}|Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\parcial 1 timothy gerald palma perez variante a\\parcial 1 variante a serie ii ejer1\\parcial 1 variante a serie ii ejer1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B225C4D-C567-49FA-8E1C-6F4A88B78AB2}|Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1.csproj|solutionrelative:parcial 1 variante a serie ii ejer1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Parcial 1 Timothy Gerald Palma Perez variante A\\Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Parcial 1 variante A Serie II ejeR1\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Parcial 1 Timothy Gerald Palma Perez variante A\\Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1\\Calculadora.cs",
+              "RelativeToolTip": "Parcial 1 variante A Serie II ejeR1\\Calculadora.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:28:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Parcial 1 Timothy Gerald Palma Perez variante A\\Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial 1 variante A Serie II ejeR1\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Parcial 1 Timothy Gerald Palma Perez variante A\\Parcial 1 variante A Serie II ejeR1\\Parcial 1 variante A Serie II ejeR1\\Program.cs",
+              "RelativeToolTip": "Parcial 1 variante A Serie II ejeR1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:26:25.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

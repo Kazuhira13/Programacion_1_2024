@@ -1,0 +1,28 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\refint\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\ref\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\bin\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\refint\Parcial 1 variante A Serie II ejeR1.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\Parcial 1 variante A Serie II ejeR1.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Parcial 1 Timothy Gerald Palma Perez variante A\Parcial 1 variante A Serie II ejeR1\Parcial 1 variante A Serie II ejeR1\obj\Debug\net8.0\ref\Parcial 1 variante A Serie II ejeR1.dll
