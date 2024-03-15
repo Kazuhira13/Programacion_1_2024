@@ -1,0 +1,13 @@
+para crear un programa con la capacidad de obtener el total de Volumen de múltiples Cajas
+1)Iniciamos con la creacion de dos clases la primera seria Caja donde definimos las propiedades de largo,alto,ancho 
+asi como el metodo para calcular el volumen.
+
+2)En la segunda clase GestorCaja se definira una lista que solo se usara en esta clase donde guardaremos la cantidad de
+cajas que se solicite despues definiremos el metodo para calcualr el volumen total en el cual se hizo uso de un foreach
+¿por qué el foreach? se utilizo para guardar las variables que se solicite de forma más rapida sin necesidad de estar creado 
+variables para cada una de las cajas guarda segun la cantidad se le asigne el usuario 
+
+3) por ultimo en program comenzamos con la instancia de la clase gestorcaja utilizamos el for para que vaya
+sumando la cantidad de cajas que el usuario ingrese colocamos Después de agregar todas las cajas
+llamar al método calcularvolumenTotal para obtener el volumen total de todas las cajas luego al método CalcularVolumenPromedio 
+para obtener el volumen promedio de las cajas y imprimimos los resultados obtenidos.
