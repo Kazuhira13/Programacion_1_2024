@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BC72-4DC7-4654-9A9D-62DD270FC198}|Semana7Desafio2\\Semana7Desafio2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\tareassemana7\\semana7desafio2\\semana7desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BC72-4DC7-4654-9A9D-62DD270FC198}|Semana7Desafio2\\Semana7Desafio2.csproj|solutionrelative:semana7desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio2\\Semana7Desafio2\\Program.cs",
+              "RelativeDocumentMoniker": "Semana7Desafio2\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio2\\Semana7Desafio2\\Program.cs",
+              "RelativeToolTip": "Semana7Desafio2\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:14:32.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
