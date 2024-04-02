@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj": {}
+    "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj": {
+    "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj",
+        "projectUniqueName": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj",
         "projectName": "Semana7Desafio3",
-        "projectPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj",
+        "projectPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\Semana7Desafio3.csproj",
         "packagesPath": "C:\\Users\\tgpp1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\obj\\",
+        "outputPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\TareasSemana7\\Semana7Desafio3\\Semana7Desafio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tgpp1\\AppData\\Roaming\\NuGet\\NuGet.Config",

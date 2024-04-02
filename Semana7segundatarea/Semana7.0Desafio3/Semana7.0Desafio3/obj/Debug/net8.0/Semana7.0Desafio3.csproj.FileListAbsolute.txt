@@ -1,0 +1,14 @@
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\bin\Debug\net8.0\Semana7.0Desafio3.exe
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\bin\Debug\net8.0\Semana7.0Desafio3.deps.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\bin\Debug\net8.0\Semana7.0Desafio3.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\bin\Debug\net8.0\Semana7.0Desafio3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\bin\Debug\net8.0\Semana7.0Desafio3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\refint\Semana7.0Desafio3.dll
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\Semana7.0Desafio3.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Escritorio\C#Archivos\Semana7.0Desafio3\Semana7.0Desafio3\obj\Debug\net8.0\ref\Semana7.0Desafio3.dll

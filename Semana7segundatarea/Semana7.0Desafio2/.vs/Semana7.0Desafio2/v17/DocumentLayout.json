@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\semana7segundatarea\\semana7.0desafio2\\semana7.0desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|solutionrelative:semana7.0desafio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\semana7segundatarea\\semana7.0desafio2\\semana7.0desafio2\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|solutionrelative:semana7.0desafio2\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\semana7segundatarea\\semana7.0desafio2\\semana7.0desafio2\\inotificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE57227-E598-42D3-B0BF-723F6866476D}|Semana7.0Desafio2\\Semana7.0Desafio2.csproj|solutionrelative:semana7.0desafio2\\inotificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificable.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\INotificable.cs",
+              "RelativeDocumentMoniker": "Semana7.0Desafio2\\INotificable.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\INotificable.cs",
+              "RelativeToolTip": "Semana7.0Desafio2\\INotificable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:34:33.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\Clase.cs",
+              "RelativeDocumentMoniker": "Semana7.0Desafio2\\Clase.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\Clase.cs",
+              "RelativeToolTip": "Semana7.0Desafio2\\Clase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:07:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\Program.cs",
+              "RelativeDocumentMoniker": "Semana7.0Desafio2\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Semana7segundatarea\\Semana7.0Desafio2\\Semana7.0Desafio2\\Program.cs",
+              "RelativeToolTip": "Semana7.0Desafio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:01:31.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
