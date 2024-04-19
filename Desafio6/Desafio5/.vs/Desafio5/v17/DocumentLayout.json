@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\",
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\desafio6\\desafio5\\desafio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|solutionrelative:desafio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\desafio6\\desafio5\\desafio5\\gestorcajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|solutionrelative:desafio5\\gestorcajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\desafio6\\desafio5\\desafio5\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\desafio6\\desafio5\\desafio5\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|solutionrelative:desafio5\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\desafio6\\desafio5\\desafio5\\gestorcajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|solutionrelative:desafio5\\gestorcajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\desafio6\\desafio5\\desafio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E69C29-6549-458D-BDBD-F420FC73A197}|Desafio5\\Desafio5.csproj|solutionrelative:desafio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GestorCajas.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\GestorCajas.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\GestorCajas.cs",
               "RelativeDocumentMoniker": "Desafio5\\GestorCajas.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\GestorCajas.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\GestorCajas.cs",
               "RelativeToolTip": "Desafio5\\GestorCajas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Caja.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Caja.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Caja.cs",
               "RelativeDocumentMoniker": "Desafio5\\Caja.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Caja.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Caja.cs",
               "RelativeToolTip": "Desafio5\\Caja.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Program.cs",
               "RelativeDocumentMoniker": "Desafio5\\Program.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Program.cs",
               "RelativeToolTip": "Desafio5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T04:07:56.745Z",
               "EditorCaption": ""

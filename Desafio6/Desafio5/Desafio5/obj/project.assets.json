@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Desafio5.csproj",
+      "projectUniqueName": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Desafio5.csproj",
       "projectName": "Desafio5",
-      "projectPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\Desafio5.csproj",
+      "projectPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\Desafio5.csproj",
       "packagesPath": "C:\\Users\\tgpp1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio5\\Desafio5\\obj\\",
+      "outputPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio5\\Desafio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tgpp1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio4\\",
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD5616ED-286C-4706-84FB-0E06BC247259}|Desafio4\\Desafio4.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\desafio6\\desafio4\\desafio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD5616ED-286C-4706-84FB-0E06BC247259}|Desafio4\\Desafio4.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\desafio6\\desafio4\\desafio4\\superficiefrontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5616ED-286C-4706-84FB-0E06BC247259}|Desafio4\\Desafio4.csproj|solutionrelative:desafio4\\superficiefrontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5616ED-286C-4706-84FB-0E06BC247259}|Desafio4\\Desafio4.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\desafio6\\desafio4\\desafio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD5616ED-286C-4706-84FB-0E06BC247259}|Desafio4\\Desafio4.csproj|solutionrelative:desafio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SuperficieFrontal.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio4\\Desafio4\\SuperficieFrontal.cs",
+              "RelativeDocumentMoniker": "Desafio4\\SuperficieFrontal.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio4\\Desafio4\\SuperficieFrontal.cs",
+              "RelativeToolTip": "Desafio4\\SuperficieFrontal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:48:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio4\\Desafio4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio4\\Desafio4\\Program.cs",
               "RelativeDocumentMoniker": "Desafio4\\Program.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Desafio6\\Desafio4\\Desafio4\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Desafio6\\Desafio4\\Desafio4\\Program.cs",
               "RelativeToolTip": "Desafio4\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:48:41.254Z",
               "EditorCaption": ""

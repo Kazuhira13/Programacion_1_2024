@@ -1,0 +1,17 @@
+Comparar las diferencias haciendo una interfaz similiar a la de la práctica en clase.
+
+1)Una de las principales diferencias entre forms y WPF es que forms su interfaz de usuario se crea programáticamente en código C#
+mientras que WPF se utiliza XAML para definir la interfaz de usuario.
+
+2) otra de las diferencias entre forms y WPF es que en WPF hay una clara separacion en la logica del codigo y la presentacion visual en form
+si queremos agregar algunos efectos o cambios interactuamos directamente con el codigo del objeto selecionado en el caso de WPF hay una
+pestaña separada donde podemos interactuar con mayor libertad con el estilo del objeto sin estar perdiendonos entre tanto codigo en el caso
+del ejemplo hecho en clase muchos de los efectos visuales que agregamos en xaml ya viene por defecto en forms. 
+
+3) otra diferecnia entre Forms y WPF es que en form al estar haciendo el mismo ejemplo en clase a la hora de quere personalizar en forms
+hay que presionar sobre la herramienta y se abrira en la parte inferior izquiera las propiedas donde podemso hacer todo los cambios que 
+deseamos el problema es que es poco intuitivo y tedioso de hacer los cambio en el caso de WPF que teneos otra pestaña separa donde podemos 
+hacer los cambios más rapidos.
+
+4) otra diferencia al hacer el ejemplo de clases en forms es que forms es más para hacer programas simples y los controles tiene un aspecto 
+y comportamiento predefinidos en el caso de WPF el ejemplo que hicimos en clase en la pestaña visual podemos realizar todo tipo de cambio que desamos la unica limitante es nuestra imaginacion.
