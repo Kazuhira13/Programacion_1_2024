@@ -1,0 +1,4 @@
+Barcelona,3,Real Madrid,2,85
+PSG,3,Bayer Munich,5,55
+BVB Dormudt,0,As Roma,1,25
+Man unite,1,Ajax,1,15
