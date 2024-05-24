@@ -8,9 +8,9 @@
         Title="Datos" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="txtNombres" HorizontalAlignment="Center" Margin="0,157,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" TextChanged="txtNombres_TextChanged" Height="19"/>
-        <Label Content="Nombre" HorizontalAlignment="Left" Margin="227,150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Precio" HorizontalAlignment="Left" Margin="229,221,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtProducto" HorizontalAlignment="Center" Margin="0,224,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" TextChanged="txtNombres_TextChanged" Height="19"/>
-        <Label Content="Producto" HorizontalAlignment="Left" Margin="227,217,0,0" VerticalAlignment="Top"/>
+        <Label Content="Producto" HorizontalAlignment="Left" Margin="227,154,0,0" VerticalAlignment="Top"/>
         <Button Content="Cargar" HorizontalAlignment="Center" Margin="0,306,0,0" VerticalAlignment="Top" Height="34" Width="120" Click="Button_Click"/>
         <Label Content="Rellene el formulario " HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" FontSize="25"/>
         <TextBox x:Name="txtID" HorizontalAlignment="Left" Margin="313,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" TextChanged="txtNombres_TextChanged" Height="19"/>
