@@ -1,0 +1,17 @@
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\Diseño.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\Diseño.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_entidades.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_negocio.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_datos.dll
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_entidades.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_negocio.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\bin\Debug\capa_datos.pdb
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.csproj.AssemblyReference.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.Form1.resources
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.csproj.Up2Date
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.exe
+C:\Users\tgpp1\OneDrive\Escritorio\Diseño\Diseño\obj\Debug\Diseño.pdb
