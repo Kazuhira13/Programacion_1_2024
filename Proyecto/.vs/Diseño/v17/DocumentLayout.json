@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\proyecto\\dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C081836-985E-495C-BA5F-81B6EFB92EE7}|capa_datos\\capa_datos.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\proyecto\\capa_datos\\classdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C081836-985E-495C-BA5F-81B6EFB92EE7}|capa_datos\\capa_datos.csproj|solutionrelative:capa_datos\\classdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\proyecto\\dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|solutionrelative:dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|solutionrelative:dise\u00F1o\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\dise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\dise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|solutionrelative:dise\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\dise\u00F1o\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\dise\u00F1o\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A792FEB2-03FE-456A-BE60-83A103D62620}|Dise\u00F1o\\Proyecto.csproj|solutionrelative:dise\u00F1o\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -26,15 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Classdatos.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\capa_datos\\Classdatos.cs",
+              "RelativeDocumentMoniker": "capa_datos\\Classdatos.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\capa_datos\\Classdatos.cs",
+              "RelativeToolTip": "capa_datos\\Classdatos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:10:43.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\menu.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\menu.cs",
               "RelativeDocumentMoniker": "Dise\u00F1o\\menu.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\menu.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\menu.cs",
               "RelativeToolTip": "Dise\u00F1o\\menu.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAqwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\menu.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\menu.cs",
               "RelativeDocumentMoniker": "Dise\u00F1o\\menu.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\menu.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\menu.cs [Dise\u00F1o]",
               "RelativeToolTip": "Dise\u00F1o\\menu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T20:44:10.139Z",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\Program.cs",
               "RelativeDocumentMoniker": "Dise\u00F1o\\Program.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\Program.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\Program.cs",
               "RelativeToolTip": "Dise\u00F1o\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\App.config",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\App.config",
               "RelativeDocumentMoniker": "Dise\u00F1o\\App.config",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Proyecto\\Dise\u00F1o\\App.config",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Proyecto\\Dise\u00F1o\\App.config",
               "RelativeToolTip": "Dise\u00F1o\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,28 +15,24 @@
       "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\update.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\datos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\datos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\programacion_1_2024\\extras\\extras\\update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332B8AD9-27CC-409E-A3BF-84E8F07D2C90}|Extras\\Extras.csproj|solutionrelative:extras\\update.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +42,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Update.xaml",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml",
+              "RelativeDocumentMoniker": "Extras\\Update.xaml",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml",
+              "RelativeToolTip": "Extras\\Update.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:30:36.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Update.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml.cs",
               "RelativeDocumentMoniker": "Extras\\Update.xaml.cs",
               "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml.cs",
               "RelativeToolTip": "Extras\\Update.xaml.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDMAAAAZAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T02:31:46.589Z",
+              "WhenOpened": "2024-06-07T02:14:23.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Datos.xaml",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml",
+              "RelativeDocumentMoniker": "Extras\\Datos.xaml",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml",
+              "RelativeToolTip": "Extras\\Datos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T00:12:32.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataAccess.cs",
               "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\DataAccess.cs",
               "RelativeDocumentMoniker": "Extras\\DataAccess.cs",
               "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\DataAccess.cs",
               "RelativeToolTip": "Extras\\DataAccess.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAuwHAAAABFAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAhwDsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T06:15:48.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Extras\\MainWindow.xaml",
@@ -84,44 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Datos.xaml",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml",
-              "RelativeDocumentMoniker": "Extras\\Datos.xaml",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml",
-              "RelativeToolTip": "Extras\\Datos.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T01:38:48.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Update.xaml",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml",
-              "RelativeDocumentMoniker": "Extras\\Update.xaml",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Update.xaml",
-              "RelativeToolTip": "Extras\\Update.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T02:30:55.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Datos.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml.cs",
-              "RelativeDocumentMoniker": "Extras\\Datos.xaml.cs",
-              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml.cs",
-              "RelativeToolTip": "Extras\\Datos.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T01:40:06.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Ventas.cs",
               "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Ventas.cs",
               "RelativeDocumentMoniker": "Extras\\Ventas.cs",
@@ -134,13 +125,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Datos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml.cs",
+              "RelativeDocumentMoniker": "Extras\\Datos.xaml.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\Datos.xaml.cs",
+              "RelativeToolTip": "Extras\\Datos.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:40:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Extras\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\Programacion_1_2024\\Extras\\Extras\\MainWindow.xaml.cs",
               "RelativeToolTip": "Extras\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwB8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T06:07:42.491Z",
               "EditorCaption": ""

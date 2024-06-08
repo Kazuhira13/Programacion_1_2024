@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\cambiardatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\cambiardatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\cambiardatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\cambiardatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\updatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\updatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\updatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|c:\\users\\tgpp1\\onedrive\\escritorio\\c#archivos\\finalserie2\\finalserie2\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD261C1-EF80-4EAE-807D-6E88367BFB2C}|FinalSerie2\\FinalSerie2.csproj|solutionrelative:finalserie2\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cambiardatos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\cambiardatos.xaml.cs",
+              "RelativeDocumentMoniker": "FinalSerie2\\cambiardatos.xaml.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\cambiardatos.xaml.cs",
+              "RelativeToolTip": "FinalSerie2\\cambiardatos.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:53:29.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cambiardatos.xaml",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\cambiardatos.xaml",
+              "RelativeDocumentMoniker": "FinalSerie2\\cambiardatos.xaml",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\cambiardatos.xaml",
+              "RelativeToolTip": "FinalSerie2\\cambiardatos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:49:33.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\UpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalSerie2\\UpdateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\UpdateWindow.xaml.cs",
+              "RelativeToolTip": "FinalSerie2\\UpdateWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:35:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\UpdateWindow.xaml",
+              "RelativeDocumentMoniker": "FinalSerie2\\UpdateWindow.xaml",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\UpdateWindow.xaml",
+              "RelativeToolTip": "FinalSerie2\\UpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T16:34:57.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\Ventas.cs",
+              "RelativeDocumentMoniker": "FinalSerie2\\Ventas.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\Ventas.cs",
+              "RelativeToolTip": "FinalSerie2\\Ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:46:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\DataAccess.cs",
+              "RelativeDocumentMoniker": "FinalSerie2\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\DataAccess.cs",
+              "RelativeToolTip": "FinalSerie2\\DataAccess.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:45:16.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FinalSerie2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\MainWindow.xaml",
+              "RelativeToolTip": "FinalSerie2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:19:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinalSerie2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tgpp1\\OneDrive\\Escritorio\\C#Archivos\\FinalSerie2\\FinalSerie2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FinalSerie2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:19:34.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
